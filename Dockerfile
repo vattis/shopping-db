@@ -1,0 +1,7 @@
+FROM mysql:8.0
+
+ENV MYSQL_ROOT_PASSWORD=nexonhsk00!
+ENV MYSQL_DATABASE=shopping
+ENV MYSQL_HOST=%
+
+CMD []
